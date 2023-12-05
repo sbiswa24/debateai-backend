@@ -10,7 +10,7 @@ import sys
 from moviepy.editor import *
 import os
 from random import randint
-from playsound import playsound
+# from playsound import playsound
 # from . import detect_stutter
 #import search_google, web_qa
 

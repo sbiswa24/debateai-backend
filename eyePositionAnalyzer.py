@@ -5,7 +5,7 @@ import math
 #from . import utils
 import utils
 import numpy as np
-import pyaudio
+#import pyaudio
 import wave
 
 # variables
